@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+*.venv/
+env/
+ENV/
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+*.DS_Store
+
+# Instance/config files (if any, add later)
+# .env
+/OpenStudio_Toolkit/
